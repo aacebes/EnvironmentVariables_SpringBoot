@@ -1,0 +1,19 @@
+my:
+  property:
+    s: "Hello"
+    x:
+      i: 5
+      b: true
+    numbersArray: 1, 2, 3
+    complexList:
+      - i: 1
+        b: true
+      - i: 2
+        b: false
+      - i: 5
+        b: true
+    mapInYaml:
+      a: "World"
+      b: 34
+    mapInLine: "{'a': 'asd', 'b': '34'}"
+
